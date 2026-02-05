@@ -1010,17 +1010,20 @@ img {
     top: auto !important;
     height: auto !important;
     min-height: auto !important;
+     padding:50px 0px;
   }
 
 
   .careers-section {
     position: sticky;
     top: 0;
+    padding:50px 0px;
   }
 
   .gallery-section {
     position: sticky;
     top: 0;
+     padding:50px 0px;
   }
 
   .news-section {
