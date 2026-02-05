@@ -1113,7 +1113,7 @@ img {
     overflow-x: auto;
     gap: 16px;
     padding: 20px;
-    height:400px
+    height:auto;
   }
 
   .gallery-item {
